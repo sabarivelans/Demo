@@ -1,0 +1,8 @@
+.heady{
+    display: flex;
+    justify-content: center;  /* Horizontally centers the text */
+    color: white;
+    background-color: black;
+    font-family: serif;
+    border-radius: 3cm;
+}

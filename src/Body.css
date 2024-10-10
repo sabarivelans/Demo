@@ -1,0 +1,14 @@
+.Body{
+    justify-content: center;
+    display: flex;
+    
+
+}
+img{
+    outline-style: double;
+    outline-color: black;
+    outline-width: 10px;
+    border-radius: 50%;
+    border-image: round;
+    margin-top: 20px;
+}

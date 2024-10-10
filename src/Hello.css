@@ -1,0 +1,9 @@
+.para{
+
+    display: flex;
+    color:darkblue;
+    margin-top: 20px;
+    font-size: larger;
+    justify-content: center;
+
+}
